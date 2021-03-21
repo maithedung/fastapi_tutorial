@@ -16,8 +16,7 @@ Security and authentication
 
 Starlette Features
 
-- Websocket
-- GraphQL/SQL/No SQL
+p
 
 Part 0: Setup Virtual Environments + Packages
 
@@ -29,8 +28,11 @@ Part 0: Setup Virtual Environments + Packages
 - pip3 install fastapi
 - pip3 install uvicorn | uvicorn --version
 - uvicorn main:app --reload
-- git init 
+- git init
 - .gitignore file
+- git status
+- git add .
+- git commit -m 'fast-api tutorial'
 
 Part 1: Basics concepts
 
